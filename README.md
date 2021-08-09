@@ -14,11 +14,14 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='VSCode Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='Html Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='CSS Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' alt='Bootstrap Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='Javascript Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg' alt='JQuery Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg' alt='Npm Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' alt='Express Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' alt='Node.js Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' alt='React Icon'/>]
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg' alt='Heroku Icon'/>]
