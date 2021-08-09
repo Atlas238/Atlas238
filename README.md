@@ -8,10 +8,7 @@
 - 📅 My Goal for 2021 is to gain experience working in a professional environment!
 
 ### Connect With Me:
-[<img align="left" alt="JackRyanBentsen.com" width="22px"/>][Portfolio]
-[<img align="left" alt="Jack Bentsen Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][Linkedin]
-[<img align="left" alt="Jack Bentsen Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram]
-<br />
+
 
 ### Languages and Tools:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='VSCode Icon' width='26px'/>
