@@ -4,8 +4,6 @@
 - 👨‍🎓 Recent UW Coding Bootcamp Graduate
 - 🎷 Former Full-Time Musician
 - 🌱 Currently Learning Everything (React.js, NoSql to be specific)
-- 👥 Looking to collaborate with other like-minded individuals!
-- 📅 My Goal for 2021 is to gain experience working in a professional environment!
 
 ### Connect With Me:
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='Linkedin Icon' width='26px'/>](https://www.linkedin.com/in/jack-bentsen/)
